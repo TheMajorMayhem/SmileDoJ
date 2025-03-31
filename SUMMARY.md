@@ -36,6 +36,10 @@
   * [Google Doc](https://docs.google.com/document/d/1sgrf3n-yBitSwow-iLFYqq4X9n5zFTZRayOUtQi-siM/edit?usp=sharing)
 * [Witness Statement](smile-doj-documents/witnessstatement/README.md)
   * [Google Doc](https://docs.google.com/document/d/1pkScGunhWQGbIZLZRd5nvdQaVJr0aERnTIpFXqXYADA/edit?usp=sharing)
+* [Warrant (Basic)](smile-doj-documents/warrantbasic/README.md)
+  * [Google Doc](https://docs.google.com/document/d/1IziJLKFDskuzYAfQyiMVL5SWZ609Szzg4AgoJdl4_sw/edit?tab=t.0)
+* [Warrant (Arrest)](smile-doj-documents/warrantarrest/README.md)
+  * [Google Doc](https://docs.google.com/document/d/1d-c26zXSJSIeUEJSM4PI_W33HnnWbI7qNUio5XPW5s8/edit?tab=t.0)
 
 ## Smile Penal Code
 
