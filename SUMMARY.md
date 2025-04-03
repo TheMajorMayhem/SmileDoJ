@@ -47,6 +47,7 @@
 
 ## Smile DoJ Training Materials
 
+* [Cell Call Procedure](smile-training-materials/cellcalls.md)
 * [Common Case Law & Use Case](smile-training-materials/commoncaselaw.md)
 * [Common Objections](smile-training-materials/commonobjections.md)
 * [Ticket Naming and Structure](smile-training-materials/ticketnames.md)
