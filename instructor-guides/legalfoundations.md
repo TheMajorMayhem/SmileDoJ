@@ -143,7 +143,7 @@ The Legal RP Foundations Course serves as the foundational training for all DOJ 
 **Objective**: Evaluate the student’s understanding of legal RP principles, criminal law, procedure, ethics, and courtroom etiquette.
 
 ### Exam Breakdown:
-1. **30 Multiple Choice Questions**:
+1. **15 Multiple Choice Questions**:
    - Example Question: "What is the minimum sentence for a Class A felony according to the Penal Code?"  
      **Answer Options**:  
      - 5 years  
@@ -152,7 +152,7 @@ The Legal RP Foundations Course serves as the foundational training for all DOJ 
      - Varies based on severity  
      **Correct Answer**: Life sentence.
 
-2. **2 RP Scenario-Based Essays**:
+2. **10 RP Scenario-Based Essays**:
    - **Scenario 1**: “Your client pleads guilty without consulting you. What do you do?”
    - **Scenario 2**: “A judge acts with bias during your trial. How do you respond IC?”
 

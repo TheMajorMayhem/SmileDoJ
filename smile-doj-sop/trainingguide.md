@@ -1,6 +1,6 @@
 # 🧠 DOJ Training & Certification Framework (Expanded)
 
-This section defines the complete training process required for all Department of Justice personnel within [Server Name] RP. It ensures all legal roleplayers are equipped to deliver high-quality, consistent roleplay aligned with established legal systems.
+This section defines the complete training process required for all Department of Justice personnel within Smile RP. It ensures all legal roleplayers are equipped to deliver high-quality, consistent roleplay aligned with established legal systems.
 
 ---
 
@@ -95,7 +95,7 @@ Focused on impartiality, command presence, and procedural control.
   - Rule on objections
   - Guide courtroom flow
   - Render a verdict and sentence
-- Reviewed by AG or DAG for certification
+- Reviewed by Judge for certification
 
 ### **Commanding Courtroom Order Training**
 - Enforcing courtroom rules
@@ -108,8 +108,9 @@ Focused on impartiality, command presence, and procedural control.
 
 | **Role**           | **Final Certification Issued By** | **Probation Period** | **Ongoing Evaluation**                     |
 |---------------------|-----------------------------------|-----------------------|---------------------------------------------|
-| Public Defender     | Public Defender Lead / DAG       | 2 weeks               | Reviewed every 30 days                      |
-| Prosecutor (ADA/DA) | District Attorney / DAG           | 2 weeks               | Reviewed every major case                   |
+| Public Defender     | Senior Counsel / Judge       | 2 weeks               | Reviewed every 30 days                      |
+| Attorney     | Senior Counsel / Judge       | 2 weeks               | Reviewed every 30 days                      |
+| Prosecutor (ADA/DA) | District Attorney / Judge           | 2 weeks               | Reviewed every major case                   |
 | Judge               | Chief Judge / AG                 | 30 days               | Bench trial observation + random audits     |
 
 ---

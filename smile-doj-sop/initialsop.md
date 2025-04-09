@@ -14,10 +14,10 @@
 6. Law Enforcement Interaction Protocols
 7. Role-Specific SOPs
    - Public Defenders
+   - Private Attorneys
    - Prosecutors / District Attorneys
    - Judges
    - Clerks
-   - Private Attorneys
 8. Trial Preparation Guidelines
 9. Courtroom Conduct, Rules, and Flow
 10. Sentencing Standards and Guidelines
@@ -37,8 +37,6 @@ The DOJ serves as the backbone of the legal system within SMILE RP, ensuring due
 ---
 
 ## **2. DOJ Organizational Structure**
-- **Attorney General (AG):** Head of the DOJ. Sets policy, handles disputes, and oversees high-level trials.
-- **Deputy Attorney General (DAG):** Assists AG, oversees internal DOJ operations and training.
 - **Chief Judge:** Oversees the Judicial Branch; assigns judges and handles appeals.
 - **Senior Judge(s):** Mentor new judges, preside over complex or high-profile cases.
 - **Judges:** Preside over trials and enforce courtroom decorum.
@@ -62,12 +60,12 @@ The DOJ serves as the backbone of the legal system within SMILE RP, ensuring due
 
 ## **4. Training & Certification Programs**
 ### **General Requirements (All DOJ Personnel):**
-- 6-hour Legal RP Foundations course (server-hosted or AG-approved)
+- 6-hour Legal RP Foundations course (BAR or Judge Hosted)
 - Mandatory courtroom observation (2 sessions minimum)
-- Final Certification Exam (30 multiple choice + 2 RP scenarios)
+- Final Certification Exam (15 multiple choice + 10 RP scenarios)
 - Familiarity with the Criminal Code, Penal Code, and Bill of Rights
 
-### **Public Defenders & Prosecutors:**
+### **Attorneys & Prosecutors:**
 - Objection Mastery and Legal Argumentation Module
 - Plea Bargaining Workshop (live scenario-based)
 - Legal Drafting & Documentation (motions, briefs, court forms)
@@ -85,7 +83,7 @@ The DOJ serves as the backbone of the legal system within SMILE RP, ensuring due
 ### **Step-by-Step Criminal Case Procedure:**
 1. Arrest made and documented by Law Enforcement Officer (LEO).
 2. Booking report, charges, and evidence submitted to DOJ SharePoint.
-3. DA/ADA reviews and assigns case to appropriate prosecutor or forwards to public defender if needed.
+3. DA/ADA reviews and assigns case to appropriate prosecutor or forwards to Attorney if needed.
 4. Pre-trial hearing also known as Cell Call.
 5. Motion phase: Defense and Prosecution file motions for plea if charges are under 50 months or if no judge is available for bench trial.
 6. Trials:
@@ -110,7 +108,7 @@ The DOJ serves as the backbone of the legal system within SMILE RP, ensuring due
 ---
 
 ## **7. Role-Specific SOPs**
-### **Public Defenders:**
+### **Attorney:**
 - Must review all discovery within 6 hours of assignment.
 - Conduct mandatory 1-on-1 interview with client prior to hearing.
 - Responsible for filing motions to suppress/dismiss if applicable.
@@ -221,7 +219,7 @@ The DOJ serves as the backbone of the legal system within SMILE RP, ensuring due
 ---
 
 ## **15. Ethics and Misconduct Reporting**
-- DOJ staff may report anonymously to AG or DAG
+- DOJ staff may report anonymously to the Chief of Justice
 - Breaches include:
   - Tampering with evidence
   - Bias in trial
@@ -235,7 +233,7 @@ The DOJ serves as the backbone of the legal system within SMILE RP, ensuring due
 ---
 
 ## **16. Chain of Command & Communication Protocols**
-- Public → Clerk → Assigned Counsel → Department Lead → DAG → AG
+- Public → Clerk → Assigned Counsel → Department Lead → Judge → CoJ
 - Judges may directly escalate to Chief Judge or AG
 - Emergency protocols may skip steps with immediate notification
 

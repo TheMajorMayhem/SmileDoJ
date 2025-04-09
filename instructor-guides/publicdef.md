@@ -1,10 +1,10 @@
-# 🧑‍⚖️ Public Defenders & Prosecutors Specific Training - Instructor Guide
+# 🧑‍⚖️ Attorney & Prosecutors Specific Training - Instructor Guide
 
 ---
 
 ## A. Course Overview
 
-The Public Defenders & Prosecutors Specific Training is designed to ensure that those playing these critical roles in Legal RP are fully equipped with the skills to handle court cases professionally, argue legal points effectively, and demonstrate legal fluency in both written and spoken communication.
+The Attorneys & Prosecutors Specific Training is designed to ensure that those playing these critical roles in Legal RP are fully equipped with the skills to handle court cases professionally, argue legal points effectively, and demonstrate legal fluency in both written and spoken communication.
 
 ---
 
@@ -12,7 +12,7 @@ The Public Defenders & Prosecutors Specific Training is designed to ensure that 
 
 ### 1. Objection Mastery & Legal Argumentation Module (1 Hour)
 
-**Objective**: Ensure that Public Defenders and Prosecutors understand how to recognize and properly respond to objections in a trial setting.
+**Objective**: Ensure that Attorneys and Prosecutors understand how to recognize and properly respond to objections in a trial setting.
 
 **Key Discussion Points**:
 - **Recognizing Valid Objections**:
@@ -43,7 +43,7 @@ The Public Defenders & Prosecutors Specific Training is designed to ensure that 
 
 ### 2. Live Plea Bargaining Workshop (1.5 Hours)
 
-**Objective**: Train participants on how to negotiate, write, and respond to plea bargains effectively, under the guidance of Senior Counsel or the Attorney General.
+**Objective**: Train participants on how to negotiate, write, and respond to plea bargains effectively, under the guidance of Senior Counsel.
 
 **Key Discussion Points**:
 - **Negotiating Reduced Sentences**:
@@ -106,7 +106,7 @@ The Public Defenders & Prosecutors Specific Training is designed to ensure that 
 
 **Key Discussion Points**:
 - **Mock Trial Overview**:
-  - Each student will play the role of either the prosecutor or the public defender, managing their case through intake, discovery, motions, trial, and sentencing.
+  - Each student will play the role of either the prosecutor or the attorney, managing their case through intake, discovery, motions, trial, and sentencing.
 - **Case Management**:
   - How to manage and organize evidence, prepare arguments, and present to the court.
   - How to handle objections, motions, and unexpected developments during trial.

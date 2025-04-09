@@ -66,7 +66,7 @@
 ### Topics Covered:
 - Structure of the Penal Code (felonies, misdemeanors, infractions).
 - Key categories (violent crimes, drug offenses, property crimes).
-- Bill of Rights in [Server Name]—adaptations from real-world constitutions.
+- Bill of Rights in Smile RP—adaptations from real-world constitutions.
 - Where to find up-to-date laws and case precedents.
 
 ### Exercise:
