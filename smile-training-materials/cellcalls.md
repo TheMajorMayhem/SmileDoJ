@@ -10,7 +10,7 @@
 2. **Attorney Request**  
    - If the suspect requests an attorney, ask if they have a private attorney or need a public defender.  
    - The officer must contact the DOJ by:  
-     - Using the DOJ radio channel (2222).  
+     - Using the DOJ radio channel (11).  
      - Reaching out through the services app.  
      - As a last resort, using DOJ emails and pinging an attorney or public defender.  
 
@@ -36,11 +36,13 @@
 ## Bench Trials and Plea Deals
 
 1. **Complicated Charges**  
-   Charges such as murder or weapons trafficking are not eligible for bench trials. These cases should be held in full court to ensure fairness to officers and the community.  
+   - Charges such as murder or weapons trafficking, or any charges less than 50 months, are not eligible for plea deals if a Judge is available. These cases must be held in a bench trial to ensure fairness to officers and the community.
+   - For charges that exceed 50 months, a judge should be reached out to and a bench trial should be sought out.
+   - If no Judge is available, proceed with the plea deal as normal.
 
 2. **Plea Deals**  
    - If a plea deal is reached, the suspect is fined and sentenced according to the negotiated agreement.  
-   - If a lawyer is present during negotiations, officers may offer up to 50% off time or fines with a guilty plea.  
+   - If a lawyer is present during negotiations, officers or the DA / ADA may offer up to 50% off time or fines with a guilty plea.  
      - **Important**: Officers cannot use the discount to persuade a guilty plea (e.g., “If your client pleads guilty, I’ll give them 20% off”).  
      - Discounts should be based on the roleplay provided by the suspect and lawyer.  
 
@@ -57,8 +59,8 @@
    - Suspects may be eligible for up to a 25% discount on fines or time (not both).  
    - Discounts must not be used to persuade a guilty plea and should be decided after the plea.  
 
-2. **Not Guilty Plea**  
-   - If the suspect pleads not guilty and pays bail, they will schedule a court date.  
+2. **Not Guilty or No Contest Plea**  
+   - If the suspect pleads not guilty or no contest and pays bail, they will schedule a court date.  
      - If they win the case, they are reimbursed for fines and bail.  
      - If they lose, they forfeit the bail money, and the judge sentences them.  
 
@@ -81,7 +83,7 @@
      - `@Judge Needed for Bench Trial`  
 
 2. **Response Time**  
-   - Officers will wait 10 minutes for a response before proceeding with processing in the cells.
+   - Officers will wait 15 minutes for a response before proceeding with processing in the cells.
 
 ---
 
