@@ -3,6 +3,10 @@
 * [README](README.md)
 * [Welcome To Smile DoJ](welcome.md)
 
+## Smile DOJ SOPs
+* [SoP General Coverage](smile-doj-sop/initialsop.md)
+  * [Cell Call Procedure](smile-training-materials/cellcalls.md)
+
 ## Smile DOJ Common Documents
 
 * [Blank Court Order](https://docs.google.com/document/d/1SZdLjqW7ZbS0wETxF7zp6Ij6nrk3XRj-SgdzovDcM6c/edit?usp=sharing)
@@ -46,11 +50,8 @@
 * [Penal Code](https://docs.google.com/spreadsheets/d/1eIcEDJSDguxcbvgkHSIvPGfxfa5nLdkZcj52Gc0wDJ8/edit?gid=883961201#gid=883961201)
 
 ## Smile DoJ Training Materials
-
-* [Cell Call Procedure](smile-training-materials/cellcalls.md)
+* [Training Guide](smile-doj-sop/trainingguide.md)
 * [Common Case Law & Use Case](smile-training-materials/commoncaselaw.md)
 * [Common Objections](smile-training-materials/commonobjections.md)
 * [Ticket Naming and Structure](smile-training-materials/ticketnames.md)
-* [Smile Paralegal Checklist](https://docs.google.com/document/d/10b22evPb4mbzKqUXEbx0CotBMAy4cugBaS95Ujt27YY/edit?tab=t.0)
-* [Smile RP SOPS](smile-doj-sop/initialsop.md)
-  * [Training Guide](smile-doj-sop/trainingguide.md)
+
