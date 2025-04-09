@@ -86,9 +86,11 @@ The DOJ serves as the backbone of the legal system within SMILE RP, ensuring due
 1. Arrest made and documented by Law Enforcement Officer (LEO).
 2. Booking report, charges, and evidence submitted to DOJ SharePoint.
 3. DA/ADA reviews and assigns case to appropriate prosecutor or forwards to public defender if needed.
-4. Pre-trial hearing scheduled (within 48 hours of arrest).
-5. Motion phase: Defense and Prosecution file motions.
-6. Trial: Bench or Jury (only when staff/judge approves jury trial).
+4. Pre-trial hearing also known as Cell Call.
+5. Motion phase: Defense and Prosecution file motions for plea if charges are under 50 months or if no judge is available for bench trial.
+6. Trials:
+    - Bench trials are available for any charges over 50 months with judge available.
+    - Jury trials if requested by the defense can be scheduled at a bench trial.
 7. Verdict & Sentencing (if found guilty).
 8. Appeal Window (48 hours post-verdict).
 
