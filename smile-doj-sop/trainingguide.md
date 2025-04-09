@@ -25,16 +25,16 @@ All DOJ members must complete the following prior to taking official DOJ cases o
 - Submit report to BAR Member or Judge for verification
 
 ### **Final DOJ Certification Exam**
-- **30 Multiple Choice Questions** on:
+- **15 Multiple Choice Questions** on:
   - Criminal/Constitutional Law
   - Procedure
   - Ethics
   - Courtroom Etiquette
-- **2 RP Scenario-Based Essays**:
+- **10 RP Scenario-Based Essays**:
   - Example: *“Your client pleads guilty without consulting you. What do you do?”*
   - Example: *“A judge acts with bias during your trial. How do you respond IC?”*
 - **Criminal Code, Penal Code, Bill of Rights Proficiency**:
-  - Must score **90%+** on open-book quiz
+  - Must score **90%+** on quiz
   - Must demonstrate understanding in mock scenarios
 
 ---

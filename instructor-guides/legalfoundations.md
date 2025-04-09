@@ -157,7 +157,7 @@ The Legal RP Foundations Course serves as the foundational training for all DOJ 
    - **Scenario 2**: “A judge acts with bias during your trial. How do you respond IC?”
 
 3. **Criminal Code, Penal Code, Bill of Rights Proficiency**:
-   - Open-Book Quiz: The student must score **90% or higher** on the quiz, demonstrating knowledge of the Penal Code, Criminal Code, and Bill of Rights.
+   - Quiz: The student must score **90% or higher** on the quiz, demonstrating knowledge of the Penal Code, Criminal Code, and Bill of Rights.
 
 ---
 

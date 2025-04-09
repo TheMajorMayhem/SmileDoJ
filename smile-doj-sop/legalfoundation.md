@@ -70,7 +70,7 @@
 - Where to find up-to-date laws and case precedents.
 
 ### Exercise:
-- **Open-Book Quiz**: Match scenario to appropriate charge and right(s) involved.
+- **Quiz**: Match scenario to appropriate charge and right(s) involved.
 
 ---
 
@@ -128,8 +128,8 @@
 ## Final Assessment
 
 ### Exam Components:
-1. **30 Multiple Choice Questions**: Topics pulled from all modules.
-2. **2 RP Scenario Prompts**:
+1. **15 Multiple Choice Questions**: Topics pulled from all modules.
+2. **10 RP Scenario Prompts**:
    - Example 1: Handle a bail hearing as a Public Defender.
    - Example 2: Write a short motion to suppress unlawful search evidence.
 
