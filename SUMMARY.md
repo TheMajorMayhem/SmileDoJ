@@ -53,3 +53,4 @@
 * [Ticket Naming and Structure](smile-training-materials/ticketnames.md)
 * [Smile Paralegal Checklist](https://docs.google.com/document/d/10b22evPb4mbzKqUXEbx0CotBMAy4cugBaS95Ujt27YY/edit?tab=t.0)
 * [Smile RP SOPS](smile-doj-sop/initialsop.md)
+  * [Training Guide](smile-doj-sop/trainingguide.md)
