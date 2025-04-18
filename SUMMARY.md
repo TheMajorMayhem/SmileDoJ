@@ -2,8 +2,10 @@
 
 * [README](README.md)
 * [Welcome To Smile DoJ](welcome.md)
+* [Docket Submissions](docket-submissions.md)
 
 ## Smile DOJ SOPs
+
 * [SoP General Coverage](smile-doj-sop/initialsop.md)
   * [Cell Call Procedure](smile-training-materials/cellcalls.md)
 
@@ -50,8 +52,8 @@
 * [Penal Code](https://docs.google.com/spreadsheets/d/1eIcEDJSDguxcbvgkHSIvPGfxfa5nLdkZcj52Gc0wDJ8/edit?gid=883961201#gid=883961201)
 
 ## Smile DoJ Training Materials
+
 * [Training Guide](smile-doj-sop/trainingguide.md)
 * [Common Case Law & Use Case](smile-training-materials/commoncaselaw.md)
 * [Common Objections](smile-training-materials/commonobjections.md)
 * [Ticket Naming and Structure](smile-training-materials/ticketnames.md)
-
