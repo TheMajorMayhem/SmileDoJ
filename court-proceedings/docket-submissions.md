@@ -1,3 +1,7 @@
+---
+icon: gavel
+---
+
 # Docket Submissions
 
 {% hint style="success" %}

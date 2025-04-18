@@ -3,9 +3,9 @@
 * [README](README.md)
 * [Welcome To Smile DoJ](welcome.md)
 
-## Group 1
+## Court Proceedings
 
-* [Docket Submissions](group-1/docket-submissions.md)
+* [Docket Submissions](court-proceedings/docket-submissions.md)
 
 ## Smile DOJ SOPs
 
