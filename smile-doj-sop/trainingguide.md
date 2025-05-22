@@ -8,9 +8,8 @@ This section defines the complete training process required for all Department o
 
 All DOJ members must complete the following prior to taking official DOJ cases or presiding in court:
 
-### **Legal RP Foundations Course** (6 Hours Total)
+### **Legal RP Foundations Course** (1 Hours Total)
 
-* **Format**: Server-hosted or AG-approved
 * **Topics**:
   * Introduction to Legal RP
   * Due Process & Fair Trial Rights
@@ -22,23 +21,9 @@ All DOJ members must complete the following prior to taking official DOJ cases o
 
 ### **Mandatory Courtroom Observation**
 
-* Minimum of **2 full courtroom sessions** observed live
+* Minimum of 2 **full courtroom sessions** observed live or 2 mock trials.
 * Must take **structured observation notes**
 * Submit report to BAR Member or Judge for verification
-
-### **Final DOJ Certification Exam**
-
-* **15 Multiple Choice Questions** on:
-  * Criminal/Constitutional Law
-  * Procedure
-  * Ethics
-  * Courtroom Etiquette
-* **10 RP Scenario-Based Essays**:
-  * Example: _“Your client pleads guilty without consulting you. What do you do?”_
-  * Example: _“A judge acts with bias during your trial. How do you respond IC?”_
-* **Criminal Code, Penal Code, Bill of Rights Proficiency**:
-  * Must score **90%+** on quiz
-  * Must demonstrate understanding in mock scenarios
 
 ***
 
@@ -122,7 +107,7 @@ Focused on impartiality, command presence, and procedural control.
 | Public Defender     | Senior Counsel / Judge            | 2 weeks              | Reviewed every 30 days                  |
 | Attorney            | Senior Counsel / Judge            | 2 weeks              | Reviewed every 30 days                  |
 | Prosecutor (ADA/DA) | District Attorney / Judge         | 2 weeks              | Reviewed every major case               |
-| Judge               | Chief Judge / AG                  | 30 days              | Bench trial observation + random audits |
+| Judge               | Chief Justice / ACoJ              | 30 days              | Bench trial observation + random audits |
 
 ***
 

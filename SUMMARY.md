@@ -63,5 +63,6 @@
 
 * [Training Guide](smile-doj-sop/trainingguide.md)
 * [Common Case Law & Use Case](smile-training-materials/commoncaselaw.md)
+* [IC vs. OOC Legal Concepts](smile-doj-training-materials/ic-vs.-ooc-legal-concepts.md)
 * [Common Objections](smile-training-materials/commonobjections.md)
 * [Ticket Naming and Structure](smile-training-materials/ticketnames.md)
