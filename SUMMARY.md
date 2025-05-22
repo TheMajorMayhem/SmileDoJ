@@ -19,6 +19,7 @@
   * [Ethical Conduct](aba-model-rules-of-conduct/ethical-conduct.md)
   * [Court Related Obligations](aba-model-rules-of-conduct/court-related-obligations.md)
   * [Violations of Code of Conduct](aba-model-rules-of-conduct/violations-of-code-of-conduct.md)
+* [DOJ Chain of Command](doj-chain-of-command.md)
 
 ## Smile DOJ Common Documents
 
