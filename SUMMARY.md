@@ -18,6 +18,7 @@
 * [ABA Model Rules of Conduct](aba-model-rules-of-conduct/README.md)
   * [Ethical Conduct](aba-model-rules-of-conduct/ethical-conduct.md)
   * [Court Related Obligations](aba-model-rules-of-conduct/court-related-obligations.md)
+  * [Violations of Code of Conduct](aba-model-rules-of-conduct/violations-of-code-of-conduct.md)
 
 ## Smile DOJ Common Documents
 
