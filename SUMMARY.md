@@ -50,10 +50,6 @@
 * [Warrant (Arrest)](smile-doj-documents/warrantarrest/README.md)
   * [Google Doc](https://docs.google.com/document/d/1d-c26zXSJSIeUEJSM4PI_W33HnnWbI7qNUio5XPW5s8/edit?tab=t.0)
 
-## Smile Penal Code
-
-* [Penal Code](https://docs.google.com/spreadsheets/d/1eIcEDJSDguxcbvgkHSIvPGfxfa5nLdkZcj52Gc0wDJ8/edit?gid=883961201#gid=883961201)
-
 ## Smile DoJ Training Materials
 
 * [Training Guide](smile-doj-sop/trainingguide.md)
