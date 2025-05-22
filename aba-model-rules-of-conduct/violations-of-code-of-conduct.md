@@ -31,7 +31,7 @@ The Department of Justice holds all legal professionals to a high standard. Viol
 
 ***
 
-**4. Disbarment (Permanent Removal)**
+**4. Disbarment (Permanent Removal) — Must have majority BAR Assoc. vote**
 
 * **Used for:** Major ethical breaches (e.g., lying to a court, harassment, illegal activity)
 * **Effect:** The individual is permanently banned from practicing law under DOJ authority
